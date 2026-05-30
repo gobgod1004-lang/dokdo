@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Gaegu:wght@450;700&display=swap');
+
+@theme {
+  --font-sans: "Gaegu", "Fredoka", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-brand-cream: #FFFBEB;
+  --color-brand-brown: #4B3425;
+  --color-brand-pink: #FF85A1;
+  --color-brand-sky: #7BC9FF;
+  --color-brand-yellow: #FFD93D;
+}
+
+body {
+  background-color: #FFFBEB;
+  color: #4B3425;
+  font-family: var(--font-sans);
+}
+

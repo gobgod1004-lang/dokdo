@@ -1,0 +1,6 @@
+{
+  "name": "귀여운 독도 배움터",
+  "description": "지리적, 역사적 사료를 바탕으로 독도의 주권을 쉽고 귀엽게 배우는 에듀테인먼트 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
